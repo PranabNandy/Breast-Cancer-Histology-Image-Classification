@@ -3,7 +3,7 @@
 
 ![Methodology](/Image/Methods.PNG)
 
-**The Architecture of Densely Connected Convolution Neural Network ==> **                                                                                                                                                                                                                      
+**The Architecture of Densely Connected Convolution Neural Network ==>**                                                                                                                                                                                                                      
 
 ![DenseNet](/Image/DenseNet.PNG)
 
@@ -14,8 +14,8 @@ ii)Run the trained model on the data provided.
 iii)Computation time may vary from seconds to a few minutes.                                                                              
 iv)Output is the status and class of cancer present in the tissue of the image provided.  
 
-**Data set** is aviable *[Here.]*(https://rdm.inesctec.pt/dataset/nis-2017-003)
+**Data set** is aviable [Here.](https://rdm.inesctec.pt/dataset/nis-2017-003)
 
 
-**Technology ==>**                                                                                                                             
+**Technology ==>**                                                                                                                                                                                                                                                                                                                                                                                                    
 Deep neural network algorithms such as ConvNets, DenseNets, etc. are used in the project.The entire development has been done in Python.
