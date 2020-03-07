@@ -9,5 +9,6 @@ iv)Output is the status and class of cancer present in the tissue of the image p
 ![Methodology](/Image/Methods.PNG)
 
 
+Data set is aviable [Here.](https://rdm.inesctec.pt/dataset/nis-2017-003)
 
-![DenseNet](/Image/Dense Net.PNG)
+![DenseNet](https://github.com/PranabNandy/Breast-Cancer-Histology-Image-Classification/tree/master/Image/Dense Net.PNG)
