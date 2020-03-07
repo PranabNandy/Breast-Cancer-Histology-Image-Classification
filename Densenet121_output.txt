@@ -1,0 +1,77 @@
+(?, 112, 112, 64)
+(?, 56, 56, 64)
+(?, 56, 56, 32)
+(?, 28, 28, 32)
+(?, 28, 28, 32)
+(?, 14, 14, 32)
+(?, 14, 14, 32)
+(?, 7, 7, 32)
+(?, 7, 7, 32)
+(?, 7, 7, 32)
+(?, 32)
+(?, 4)
+Found 68880 images belonging to 4 classes.
+Found 5600 images belonging to 4 classes.
+Found 5600 images belonging to 4 classes.
+{'Normal': 3, 'Invasive': 2, 'In Situ': 1, 'Benign': 0}
+{'Normal': 3, 'Invasive': 2, 'In Situ': 1, 'Benign': 0}
+{'Normal': 3, 'Invasive': 2, 'In Situ': 1, 'Benign': 0}
+Epoch 1/25
+2153/2153 [==============================] - 1918s 891ms/step - loss: 0.6007 - acc: 0.7692 - val_loss: 0.2817 - val_acc: 0.9407
+Epoch 2/25
+2153/2153 [==============================] - 1894s 880ms/step - loss: 0.2564 - acc: 0.9171 - val_loss: 0.1545 - val_acc: 0.9414
+Epoch 3/25
+2153/2153 [==============================] - 1895s 880ms/step - loss: 0.1600 - acc: 0.9484 - val_loss: 0.0718 - val_acc: 0.9786
+Epoch 4/25
+2153/2153 [==============================] - 1895s 880ms/step - loss: 0.1129 - acc: 0.9635 - val_loss: 0.0765 - val_acc: 0.9711
+Epoch 5/25
+2153/2153 [==============================] - 1896s 881ms/step - loss: 0.0870 - acc: 0.9728 - val_loss: 0.1333 - val_acc: 0.9587
+Epoch 6/25
+2153/2153 [==============================] - 1896s 881ms/step - loss: 0.0595 - acc: 0.9809 - val_loss: 0.0774 - val_acc: 0.9705
+Epoch 7/25
+2153/2153 [==============================] - 1896s 881ms/step - loss: 0.0579 - acc: 0.9817 - val_loss: 0.0387 - val_acc: 0.9879
+Epoch 8/25
+2153/2153 [==============================] - 1896s 881ms/step - loss: 0.0415 - acc: 0.9873 - val_loss: 0.0325 - val_acc: 0.9902
+Epoch 9/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0384 - acc: 0.9885 - val_loss: 0.0681 - val_acc: 0.9827
+Epoch 10/25
+2153/2153 [==============================] - 1896s 881ms/step - loss: 0.0380 - acc: 0.9887 - val_loss: 0.0235 - val_acc: 0.9932
+Epoch 11/25
+2153/2153 [==============================] - 1898s 881ms/step - loss: 0.0315 - acc: 0.9907 - val_loss: 0.0269 - val_acc: 0.9907
+Epoch 12/25
+2153/2153 [==============================] - 1898s 881ms/step - loss: 0.0264 - acc: 0.9919 - val_loss: 0.0426 - val_acc: 0.9862
+Epoch 13/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0235 - acc: 0.9926 - val_loss: 0.0253 - val_acc: 0.9929
+Epoch 14/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0240 - acc: 0.9931 - val_loss: 0.0263 - val_acc: 0.9918
+Epoch 15/25
+2153/2153 [==============================] - 1896s 881ms/step - loss: 0.0199 - acc: 0.9938 - val_loss: 0.0125 - val_acc: 0.9961
+Epoch 16/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0187 - acc: 0.9947 - val_loss: 0.0190 - val_acc: 0.9948
+Epoch 17/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0156 - acc: 0.9955 - val_loss: 0.0530 - val_acc: 0.9827
+Epoch 18/25
+2153/2153 [==============================] - 1898s 881ms/step - loss: 0.0154 - acc: 0.9957 - val_loss: 0.0258 - val_acc: 0.9907
+Epoch 19/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0154 - acc: 0.9952 - val_loss: 0.0388 - val_acc: 0.9925
+Epoch 20/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0177 - acc: 0.9949 - val_loss: 0.0805 - val_acc: 0.9686
+Epoch 21/25
+2153/2153 [==============================] - 1896s 881ms/step - loss: 0.0115 - acc: 0.9966 - val_loss: 0.0132 - val_acc: 0.9959
+Epoch 22/25
+2153/2153 [==============================] - 1896s 881ms/step - loss: 0.0131 - acc: 0.9964 - val_loss: 0.0156 - val_acc: 0.9961
+Epoch 23/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0133 - acc: 0.9960 - val_loss: 0.0147 - val_acc: 0.9950
+Epoch 24/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0101 - acc: 0.9970 - val_loss: 0.0127 - val_acc: 0.9952
+Epoch 25/25
+2153/2153 [==============================] - 1897s 881ms/step - loss: 0.0113 - acc: 0.9967 - val_loss: 0.0160 - val_acc: 0.9957
+Found 68880 images belonging to 4 classes.
+Found 5600 images belonging to 4 classes.
+Found 5600 images belonging to 4 classes.
+{'Normal': 3, 'Invasive': 2, 'In Situ': 1, 'Benign': 0}
+{'Normal': 3, 'Invasive': 2, 'In Situ': 1, 'Benign': 0}
+{'Normal': 3, 'Invasive': 2, 'In Situ': 1, 'Benign': 0}
+Loss = 0.744450330668
+Test Accuracy = 0.908035714286
+DONE
