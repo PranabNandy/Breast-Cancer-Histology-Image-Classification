@@ -11,7 +11,9 @@
 
 **Summary ==>**
 
-*The model accepts the histological reports of the user as input.                                                                        *Run the trained model on the data provided.                                                                                             
+*The model accepts the histological reports of the user as input.  
+
+*Run the trained model on the data provided.                                                                                             
 *Computation time may vary from seconds to a few minutes.                                                                              
 *Output is the status and class of cancer present in the tissue of the image provided.  
 
