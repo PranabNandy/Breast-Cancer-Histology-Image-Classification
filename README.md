@@ -3,10 +3,10 @@
 
 ![Methodology](/Image/Methods.PNG)
 
-##<h4>**The Architecture of Densely Connected Convolution Neural Network**
+**The Architecture of Densely Connected Convolution Neural Network**
 
 ![DenseNet](/Image/DenseNet.PNG)
-</h4>
+
 **Summary:**
 
 i)The model accepts the histological reports of the user as input.                                                                        
