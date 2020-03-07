@@ -1,6 +1,6 @@
 # Breast-Cancer-Histology-Image-Classification
-#<h1>**Summary:**
-##<h2>
+<h1>**Summary:**
+<h4>
 i)The model accepts the histological reports of the user as input.                                                                        
 ii)Run the trained model on the data provided.                                                                                             
 iii)Computation time may vary from seconds to a few minutes.                                                                              
@@ -9,5 +9,5 @@ iv)Output is the status and class of cancer present in the tissue of the image p
 ![Methodology](/Image/Methods.PNG)
 
 
-
+<h6>
 ![DenseNet](/Image/Dense Net.PNG)
