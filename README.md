@@ -9,6 +9,12 @@
 
 ![DenseNet](/Image/DenseNet.PNG)
 
+**Size of Input Image at different Layer ==>**
+                                                    
+                                                    
+![DenseNet](/Image/WithSize1.PNG)
+
+
 **Summary ==>**
 
 i)The model accepts the histological reports of the user as input.  
