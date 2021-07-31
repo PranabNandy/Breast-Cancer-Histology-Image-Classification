@@ -23,8 +23,6 @@ from skimage.transform import rotate
 from skimage import io
 from skimage.transform import resize
 from skimage import io,color
-import stain_utils as utils
-import stainNorm_Macenko
 K.set_image_data_format('channels_last')
 warnings.filterwarnings('ignore')
 
@@ -71,12 +69,7 @@ def predictcancer(fullpath):
     K.set_image_data_format('channels_last')
     warnings.filterwarnings('ignore')
     phase=""
-    norm=stainNorm_Macenko.normalizer()
-    fullpath_norm="outnorm.png"
-    i1=utils.read_image(fullpath)
-    norm.fit(i1)
-    io.imsave((fullpath_norm),i1)
-    im = read_image(fullpath_norm)
+    im = read_image(fullpath)
     model=load_model('/content/gdrive/My Drive/Breast Cancer Phase Detection/New Dataset/my_densenet')
     pred=model.predict(im, batch_size=40, verbose=0, steps=None)
     category=np.argmax(pred,axis=-1)  
